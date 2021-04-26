@@ -82,6 +82,8 @@
 
 /* Clap Info */
 .info {
-  position: relative;
-  top: 47px;
+position: absolute;
+left: -20px;
+right: -20px;
+bottom: -50px;
 }
